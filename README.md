@@ -4,6 +4,7 @@
         <img src="https://fieldedge.com/wp-content/uploads/2020/09/dispatching_board_magnified-600x328.png" alt ="Audio Art" style='width:800px;height:500px;'>
         <figcaption>
 Automate the process of handling program orders from customers and forwarding them to specific employees using NLP techniques. 
+This approach will save time, reduce manual effort, and ensure that the right employees receive the necessary information promptly. If you need help setting up a specific part of this workflow or selecting the right tools/models, feel free to ask!                
 a step-by-step guide with code to automate handling program orders from customer emails and sending them to specific employees using NLP. We'll use Python, spaCy for NLP, and smtplib for email automation. The code will cover the basic flow:
 Step 1: Set Up Email Reading
 
